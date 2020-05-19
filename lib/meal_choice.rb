@@ -9,4 +9,4 @@ def meal_choice (veg1, veg2, plant_based_protein = 'tofu')
   return plate
 end
 
-meal_choice('kale', 'red cabbage', 'red lentils')
+puts meal_choice('kale', 'red cabbage', 'red lentils')
